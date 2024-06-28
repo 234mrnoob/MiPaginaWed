@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Color azul claro */
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #ff5722; /* Color naranja */
+    font-size: 2.5em; /* Tamaño del texto */
+    text-transform: uppercase; /* Mayúsculas */
+}
+
+    color: #007acc;
+}
+
+p {
+    font-size: 18px;
+}
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+function mostrarMensaje() {
+    alert("¡Hola! Gracias por hacer clic en el botón.");
+}
